@@ -10,6 +10,7 @@
 		ED8F6D5B1DA7E4DB00DE3651 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8F6D5A1DA7E4DB00DE3651 /* main.swift */; };
 		ED8F6D651DA7E50F00DE3651 /* 1_TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8F6D641DA7E50F00DE3651 /* 1_TwoSum.swift */; };
 		ED8F6D671DA7E62A00DE3651 /* 2_AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8F6D661DA7E62A00DE3651 /* 2_AddTwoNumbers.swift */; };
+		EDDEF8381DA7ED58009EE95E /* 3_LongestSubstringWithoutRepeatingCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDDEF8371DA7ED58009EE95E /* 3_LongestSubstringWithoutRepeatingCharacters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +31,7 @@
 		ED8F6D631DA7E50200DE3651 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 		ED8F6D641DA7E50F00DE3651 /* 1_TwoSum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 1_TwoSum.swift; sourceTree = "<group>"; };
 		ED8F6D661DA7E62A00DE3651 /* 2_AddTwoNumbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 2_AddTwoNumbers.swift; sourceTree = "<group>"; };
+		EDDEF8371DA7ED58009EE95E /* 3_LongestSubstringWithoutRepeatingCharacters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 3_LongestSubstringWithoutRepeatingCharacters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 			children = (
 				ED8F6D641DA7E50F00DE3651 /* 1_TwoSum.swift */,
 				ED8F6D661DA7E62A00DE3651 /* 2_AddTwoNumbers.swift */,
+				EDDEF8371DA7ED58009EE95E /* 3_LongestSubstringWithoutRepeatingCharacters.swift */,
 				ED8F6D5A1DA7E4DB00DE3651 /* main.swift */,
 				ED8F6D631DA7E50200DE3651 /* MyPlayground.playground */,
 			);
@@ -132,6 +135,7 @@
 				ED8F6D651DA7E50F00DE3651 /* 1_TwoSum.swift in Sources */,
 				ED8F6D5B1DA7E4DB00DE3651 /* main.swift in Sources */,
 				ED8F6D671DA7E62A00DE3651 /* 2_AddTwoNumbers.swift in Sources */,
+				EDDEF8381DA7ED58009EE95E /* 3_LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
