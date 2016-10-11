@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ED1A996C1DA92266004E1D53 /* 4_MedianofTwoSortedArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1A996B1DA92266004E1D53 /* 4_MedianofTwoSortedArrays.swift */; };
 		ED8F6D5B1DA7E4DB00DE3651 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8F6D5A1DA7E4DB00DE3651 /* main.swift */; };
 		ED8F6D651DA7E50F00DE3651 /* 1_TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8F6D641DA7E50F00DE3651 /* 1_TwoSum.swift */; };
 		ED8F6D671DA7E62A00DE3651 /* 2_AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8F6D661DA7E62A00DE3651 /* 2_AddTwoNumbers.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		ED1A996B1DA92266004E1D53 /* 4_MedianofTwoSortedArrays.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 4_MedianofTwoSortedArrays.swift; sourceTree = "<group>"; };
 		ED8F6D571DA7E4DB00DE3651 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED8F6D5A1DA7E4DB00DE3651 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		ED8F6D631DA7E50200DE3651 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				ED8F6D641DA7E50F00DE3651 /* 1_TwoSum.swift */,
 				ED8F6D661DA7E62A00DE3651 /* 2_AddTwoNumbers.swift */,
 				EDDEF8371DA7ED58009EE95E /* 3_LongestSubstringWithoutRepeatingCharacters.swift */,
+				ED1A996B1DA92266004E1D53 /* 4_MedianofTwoSortedArrays.swift */,
 				ED8F6D5A1DA7E4DB00DE3651 /* main.swift */,
 				ED8F6D631DA7E50200DE3651 /* MyPlayground.playground */,
 			);
@@ -136,6 +139,7 @@
 				ED8F6D5B1DA7E4DB00DE3651 /* main.swift in Sources */,
 				ED8F6D671DA7E62A00DE3651 /* 2_AddTwoNumbers.swift in Sources */,
 				EDDEF8381DA7ED58009EE95E /* 3_LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
+				ED1A996C1DA92266004E1D53 /* 4_MedianofTwoSortedArrays.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
